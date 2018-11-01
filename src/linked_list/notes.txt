@@ -1,0 +1,5 @@
+A Linked List is a data structure used for storing a collection of elements or objects or nodes having the following properties:
+	It contains a sequence of nodes
+	A node has data and reference to Next node
+	First node is the head node
+	Last node has data and points to Null
